@@ -1,0 +1,238 @@
+2022-12-17 18:12:366 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (6999000d6b9b519eb39d0fe5b5b5fbf4)] -> link text: Log in]
+2022-12-17 18:12:409 INFO  LoginPage :44 - Getting text from : [[ChromeDriver: chrome on WINDOWS (6999000d6b9b519eb39d0fe5b5b5fbf4)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2022-12-17 19:12:528 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (24cf9145f5a9e522ad882871415beebf)] -> link text: Log in]
+2022-12-17 19:12:572 INFO  LoginPage :44 - Getting text from : [[ChromeDriver: chrome on WINDOWS (24cf9145f5a9e522ad882871415beebf)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2022-12-17 19:12:260 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (53fa0e4c0bb0b9d5346e00c4270fa2c3)] -> link text: Log in]
+2022-12-17 19:12:120 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (ceb1edcefc63c136fc322f5fd24883e3)] -> link text: Log in]
+2022-12-17 19:12:164 INFO  LoginPage :44 - Getting text from : [[ChromeDriver: chrome on WINDOWS (ceb1edcefc63c136fc322f5fd24883e3)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2022-12-17 19:12:175 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (352e1fe600574737327e3abc444ca6db)] -> link text: Log in]
+2022-12-17 19:12:690 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (c1154361fb2bac5df9d0172799523c4b)] -> link text: Log in]
+2022-12-17 19:12:986 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (2230a5718abb320f7713168b06f921bc)] -> link text: Log in]
+2022-12-17 19:12:911 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (77c40c6db7b93c27f94083c2b5b17071)] -> link text: Log in]
+2022-12-17 19:12:146 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (3aeb6bdac2f217567965eb6a37a43067)] -> link text: Log in]
+2022-12-17 19:12:911 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (fbe2d145d851fd3bda20bd76806d6a8e)] -> link text: Log in]
+2022-12-17 19:12:610 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (9cc74b85782bbd4bd6fad2f668941076)] -> link text: Log in]
+2022-12-17 20:12:710 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (50b730be6f0a748e82417b7092328620)] -> link text: Log in]
+2022-12-17 20:12:748 INFO  LoginPage :44 - Getting text from : [[ChromeDriver: chrome on WINDOWS (50b730be6f0a748e82417b7092328620)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2022-12-17 20:12:214 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (ee66f6d1e7bfb0a57528a9b4b6eceebe)] -> link text: Log in]
+2022-12-17 20:12:265 INFO  LoginPage :44 - Getting text from : [[ChromeDriver: chrome on WINDOWS (ee66f6d1e7bfb0a57528a9b4b6eceebe)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2022-12-17 20:12:279 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (1cff09be78db8257b77dddcfbaeb6c97)] -> link text: Log in]
+2022-12-17 20:12:323 INFO  LoginPage :44 - Getting text from : [[ChromeDriver: chrome on WINDOWS (1cff09be78db8257b77dddcfbaeb6c97)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2022-12-17 20:12:165 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (3cc28cd07eb0420215d1c64261aa7f27)] -> link text: Log in]
+2022-12-17 20:12:848 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (b56816e119503110e3a563d54d93bc7f)] -> link text: Log in]
+2022-12-17 20:12:277 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (4e80a0f18711c7123daf7bcc9983f211)] -> link text: Log in]
+2022-12-17 20:12:945 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (8372cec0d1147002172f57e417d3d7fb)] -> link text: Log in]
+2022-12-17 20:12:248 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (7311a78927ea394bf5398edc8fca9e42)] -> link text: Log in]
+2022-12-17 20:12:291 INFO  LoginPage :44 - Getting text from : [[ChromeDriver: chrome on WINDOWS (7311a78927ea394bf5398edc8fca9e42)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2022-12-17 20:12:409 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (eaf1acc168baba3e827f5657f3c40695)] -> link text: Log in]
+2022-12-17 20:12:438 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (6977983c1ab1cd5bf294bf31d934153b)] -> link text: Log in]
+2022-12-17 20:12:481 INFO  LoginPage :44 - Getting text from : [[ChromeDriver: chrome on WINDOWS (6977983c1ab1cd5bf294bf31d934153b)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2022-12-17 20:12:193 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (2144fd4fe42448f18bcf5982ac38775e)] -> link text: Log in]
+2022-12-17 20:12:973 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (4096f265f5683d47d109aab62db5d68c)] -> link text: Log in]
+2022-12-17 20:12:14 INFO  LoginPage :44 - Getting text from : [[ChromeDriver: chrome on WINDOWS (4096f265f5683d47d109aab62db5d68c)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2022-12-17 20:12:181 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (eb6d38e08389b4bdbd83fff9abbe1e4e)] -> link text: Log in]
+2022-12-17 20:12:421 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (48588a0a09a8cf003694a94f504b70e3)] -> link text: Log in]
+2022-12-17 20:12:460 INFO  LoginPage :44 - Getting text from : [[ChromeDriver: chrome on WINDOWS (48588a0a09a8cf003694a94f504b70e3)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2022-12-17 20:12:365 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (79df6a1205a483b9a8fb1c73e12d00df)] -> link text: Log in]
+2022-12-17 20:12:410 INFO  LoginPage :44 - Getting text from : [[ChromeDriver: chrome on WINDOWS (79df6a1205a483b9a8fb1c73e12d00df)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2022-12-17 20:12:487 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (ce3ec878fbe8f6108e8e591dd42416c0)] -> link text: Log in]
+2022-12-17 20:12:313 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (d02a82eddc734334b3966881b826bc71)] -> link text: Log in]
+2022-12-17 23:12:312 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (8af93cca352e66d6c79402d4d2cf02b4)] -> link text: Log in]
+2022-12-17 23:12:359 INFO  LoginPage :44 - Getting text from : [[ChromeDriver: chrome on WINDOWS (8af93cca352e66d6c79402d4d2cf02b4)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2022-12-17 23:12:380 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (6b5328b9846a28c8691bd7f43a1b98b4)] -> link text: Log in]
+2022-12-17 23:12:883 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (bdded8534e11d33b1ceaf96e73c75004)] -> link text: Log in]
+2022-12-17 23:12:928 INFO  LoginPage :44 - Getting text from : [[ChromeDriver: chrome on WINDOWS (bdded8534e11d33b1ceaf96e73c75004)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2022-12-17 23:12:81 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (0f466fc52459ed35f1f6ec302252ce16)] -> link text: Log in]
+2022-12-20 02:12:470 INFO  HomePage :86 - Mouse Hover on “Electronics” Tab[[ChromeDriver: chrome on WINDOWS (cc7b1c422238845844cb4e404bbfce6f)] -> xpath: //div[@class='header-menu']/ul[1]/li[2]/a]
+2022-12-20 02:12:603 INFO  HomePage :92 - Mouse Hover on “Cell phones” and click[[ChromeDriver: chrome on WINDOWS (cc7b1c422238845844cb4e404bbfce6f)] -> xpath: //div[@class='header-menu']/ul[1]/li[2]/ul/li[2]/a[1]]
+2022-12-20 02:12:966 INFO  CellPhonesPage :29 - Verify the text “Cell phones”[[ChromeDriver: chrome on WINDOWS (cc7b1c422238845844cb4e404bbfce6f)] -> xpath: //h1[text()='Cell phones']]
+2022-12-20 02:12:764 INFO  HomePage :86 - Mouse Hover on “Electronics” Tab[[ChromeDriver: chrome on WINDOWS (5fada9335a21c08597eb604c3e1c97c7)] -> xpath: //div[@class='header-menu']/ul[1]/li[2]/a]
+2022-12-20 02:12:902 INFO  HomePage :92 - Mouse Hover on “Cell phones” and click[[ChromeDriver: chrome on WINDOWS (5fada9335a21c08597eb604c3e1c97c7)] -> xpath: //div[@class='header-menu']/ul[1]/li[2]/ul/li[2]/a[1]]
+2022-12-20 02:12:479 INFO  CellPhonesPage :29 - Verify the text “Cell phones”[[ChromeDriver: chrome on WINDOWS (5fada9335a21c08597eb604c3e1c97c7)] -> xpath: //h1[text()='Cell phones']]
+2022-12-20 17:12:659 INFO  HomePage :50 - Clicking on login link Log in<br>
+2022-12-20 17:12:920 INFO  LoginPage :44 - Getting welcome text Welcome, Please Sign In!<br>
+2022-12-20 18:12:105 INFO  HomePage :50 - Clicking on login link Log in<br>
+2022-12-20 18:12:382 INFO  LoginPage :44 - Getting welcome text Welcome, Please Sign In!<br>
+2022-12-20 18:12:950 INFO  HomePage :50 - Clicking on login link Log in<br>
+2022-12-20 18:12:263 INFO  LoginPage :50 - Enter email prime123@gmail.com to email field <br>
+2022-12-20 18:12:332 INFO  LoginPage :55 - Enter password prime123 to password field <br>
+2022-12-20 18:12:745 INFO  LoginPage :60 - Clicking on Login Button <br>
+2022-12-20 18:12:793 INFO  LoginPage :65 - Getting error message : Login was unsuccessful. Please correct the errors and try again.
+No customer account found<br>
+2022-12-20 18:12:536 INFO  HomePage :50 - Clicking on login link Log in<br>
+2022-12-20 18:12:817 INFO  LoginPage :44 - Getting welcome text Welcome, Please Sign In!<br>
+2022-12-20 18:12:298 INFO  HomePage :50 - Clicking on login link Log in<br>
+2022-12-20 18:12:817 INFO  LoginPage :50 - Enter email prime123@gmail.com to email field <br>
+2022-12-20 18:12:887 INFO  LoginPage :55 - Enter password Prime123 to password field <br>
+2022-12-20 18:12:297 INFO  LoginPage :60 - Clicking on Login Button <br>
+2022-12-20 18:12:343 INFO  LoginPage :65 - Getting error message : Login was unsuccessful. Please correct the errors and try again.
+No customer account found<br>
+2022-12-20 18:12:875 INFO  HomePage :50 - Clicking on login link Log in<br>
+2022-12-20 18:12:405 INFO  LoginPage :50 - Enter email primeqwerty@gmail.com to email field <br>
+2022-12-20 18:12:471 INFO  LoginPage :55 - Enter password qwerty to password field <br>
+2022-12-20 18:12:235 INFO  LoginPage :60 - Clicking on Login Button <br>
+2022-12-20 18:12:828 INFO  HomePage :49 - Clicking on login link Log in<br>
+2022-12-20 18:12:107 INFO  LoginPage :44 - Getting welcome text Welcome, Please Sign In!<br>
+2022-12-20 18:12:847 INFO  HomePage :49 - Clicking on login link Log in<br>
+2022-12-20 18:12:520 INFO  LoginPage :50 - Enter email prime123@gmail.com to email field <br>
+2022-12-20 18:12:584 INFO  LoginPage :55 - Enter password Prime123 to password field <br>
+2022-12-20 18:12:828 INFO  LoginPage :60 - Clicking on Login Button <br>
+2022-12-20 18:12:872 INFO  LoginPage :65 - Getting error message : Login was unsuccessful. Please correct the errors and try again.
+No customer account found<br>
+2022-12-20 18:12:404 INFO  HomePage :49 - Clicking on login link Log in<br>
+2022-12-20 18:12:951 INFO  LoginPage :50 - Enter email primeqwerty@gmail.com to email field <br>
+2022-12-20 18:12:16 INFO  LoginPage :55 - Enter password qwerty to password field <br>
+2022-12-20 18:12:417 INFO  LoginPage :60 - Clicking on Login Button <br>
+2022-12-20 18:12:883 INFO  HomePage :49 - Clicking on login link Log in<br>
+2022-12-20 18:12:212 INFO  LoginPage :50 - Enter email zxcvbn@gmail.com to email field <br>
+2022-12-20 18:12:280 INFO  LoginPage :55 - Enter password qwerty to password field <br>
+2022-12-20 18:12:766 INFO  LoginPage :60 - Clicking on Login Button <br>
+2022-12-20 18:12:831 INFO  HomePage :77 - Checking is logOutLink displayed : Log out<br>
+2022-12-20 18:12:810 INFO  HomePage :49 - Clicking on login link Log in<br>
+2022-12-20 18:12:166 INFO  LoginPage :50 - Enter email zxcvbn@gmail.com to email field <br>
+2022-12-20 18:12:235 INFO  LoginPage :55 - Enter password qwerty to password field <br>
+2022-12-20 18:12:529 INFO  LoginPage :60 - Clicking on Login Button <br>
+2022-12-20 18:12:589 INFO  HomePage :77 - Checking is logOutLink displayed : Log out<br>
+2022-12-20 18:12:965 INFO  HomePage :60 - Clicking on register link Register<br>
+2022-12-20 18:12:283 INFO  RegisterPage :83 - Get registerText : Register<br>
+2022-12-20 20:12:908 INFO  HomePage :49 - Clicking on login link Log in<br>
+2022-12-20 20:12:487 INFO  LoginPage :50 - Enter email zxcvbn@gmail.com to email field <br>
+2022-12-20 20:12:548 INFO  LoginPage :55 - Enter password qwerty to password field <br>
+2022-12-20 20:12:01 INFO  LoginPage :60 - Clicking on Login Button <br>
+2022-12-20 20:12:328 INFO  HomePage :60 - Clicking on register link Register<br>
+2022-12-20 20:12:864 INFO  RegisterPage :83 - Get registerText : Register<br>
+2022-12-20 20:12:388 INFO  HomePage :60 - Clicking on register link Register<br>
+2022-12-20 20:12:880 INFO  RegisterPage :130 - Click on 'REGISTER' button<br>
+2022-12-20 20:12:790 INFO  HomePage :49 - Clicking on login link Log in<br>
+2022-12-20 20:12:93 INFO  LoginPage :50 - Enter email zxcvbn@gmail.com to email field <br>
+2022-12-20 20:12:163 INFO  LoginPage :55 - Enter password qwerty to password field <br>
+2022-12-20 20:12:297 INFO  LoginPage :60 - Clicking on Login Button <br>
+2022-12-20 20:12:390 INFO  HomePage :60 - Clicking on register link Register<br>
+2022-12-20 20:12:952 INFO  RegisterPage :83 - Get registerText : Register<br>
+2022-12-20 20:12:598 INFO  HomePage :60 - Clicking on register link Register<br>
+2022-12-20 20:12:797 INFO  RegisterPage :130 - Click on 'REGISTER' button<br>
+2022-12-20 20:12:07 INFO  HomePage :49 - Clicking on login link Log in<br>
+2022-12-20 20:12:268 INFO  LoginPage :50 - Enter email zxcvbn@gmail.com to email field <br>
+2022-12-20 20:12:343 INFO  LoginPage :55 - Enter password qwerty to password field <br>
+2022-12-20 20:12:433 INFO  LoginPage :60 - Clicking on Login Button <br>
+2022-12-20 20:12:697 INFO  HomePage :60 - Clicking on register link Register<br>
+2022-12-20 20:12:269 INFO  RegisterPage :83 - Get registerText : Register<br>
+2022-12-20 20:12:626 INFO  HomePage :60 - Clicking on register link Register<br>
+2022-12-20 20:12:855 INFO  RegisterPage :130 - Click on 'REGISTER' button<br>
+2022-12-20 20:12:684 INFO  HomePage :49 - Clicking on login link Log in<br>
+2022-12-20 20:12:259 INFO  LoginPage :50 - Enter email zxcvbn@gmail.com to email field <br>
+2022-12-20 20:12:352 INFO  LoginPage :55 - Enter password qwerty to password field <br>
+2022-12-20 20:12:788 INFO  LoginPage :60 - Clicking on Login Button <br>
+2022-12-20 20:12:337 INFO  HomePage :60 - Clicking on register link Register<br>
+2022-12-20 20:12:893 INFO  RegisterPage :83 - Get registerText : Register<br>
+2022-12-20 20:12:562 INFO  HomePage :60 - Clicking on register link Register<br>
+2022-12-20 20:12:79 INFO  RegisterPage :130 - Click on 'REGISTER' button<br>
+2022-12-20 20:12:415 INFO  HomePage :49 - Clicking on login link Log in<br>
+2022-12-20 20:12:114 INFO  LoginPage :50 - Enter email zxcvbn@gmail.com to email field <br>
+2022-12-20 20:12:192 INFO  LoginPage :55 - Enter password qwerty to password field <br>
+2022-12-20 20:12:641 INFO  LoginPage :60 - Clicking on Login Button <br>
+2022-12-20 20:12:440 INFO  HomePage :60 - Clicking on register link Register<br>
+2022-12-20 20:12:984 INFO  RegisterPage :83 - Get registerText : Register<br>
+2022-12-20 20:12:619 INFO  HomePage :60 - Clicking on register link Register<br>
+2022-12-20 20:12:120 INFO  RegisterPage :130 - Click on 'REGISTER' button<br>
+2022-12-20 20:12:668 INFO  HomePage :49 - Clicking on login link Log in<br>
+2022-12-20 20:12:170 INFO  LoginPage :50 - Enter email zxcvbn@gmail.com to email field <br>
+2022-12-20 20:12:243 INFO  LoginPage :55 - Enter password qwerty to password field <br>
+2022-12-20 20:12:664 INFO  LoginPage :60 - Clicking on Login Button <br>
+2022-12-20 20:12:751 INFO  HomePage :60 - Clicking on register link Register<br>
+2022-12-20 20:12:251 INFO  RegisterPage :83 - Get registerText : Register<br>
+2022-12-20 20:12:917 INFO  HomePage :60 - Clicking on register link Register<br>
+2022-12-20 20:12:395 INFO  RegisterPage :130 - Click on 'REGISTER' button<br>
+2022-12-20 20:12:979 INFO  HomePage :49 - Clicking on login link Log in<br>
+2022-12-20 20:12:272 INFO  LoginPage :50 - Enter email zxcvbn@gmail.com to email field <br>
+2022-12-20 20:12:340 INFO  LoginPage :55 - Enter password qwerty to password field <br>
+2022-12-20 20:12:765 INFO  LoginPage :60 - Clicking on Login Button <br>
+2022-12-20 20:12:240 INFO  HomePage :60 - Clicking on register link Register<br>
+2022-12-20 20:12:582 INFO  RegisterPage :83 - Get registerText : Register<br>
+2022-12-20 20:12:171 INFO  HomePage :60 - Clicking on register link Register<br>
+2022-12-20 20:12:652 INFO  RegisterPage :130 - Click on 'REGISTER' button<br>
+2022-12-20 23:12:632 INFO  HomePage :90 - Click on 'Computers' tab <br>
+2022-12-20 23:12:929 INFO  ComputerPage :35 - Get pageTitle text : Computers<br>
+2022-12-20 23:12:225 INFO  HomePage :90 - Click on 'Computers' tab <br>
+2022-12-20 23:12:732 INFO  ComputerPage :42 - Click on 'Desktops' link <br>
+2022-12-20 23:12:196 INFO  ComputerPage :35 - Get pageTitle text : Desktops<br>
+2022-12-20 23:12:745 INFO  HomePage :90 - Click on 'Computers' tab <br>
+2022-12-20 23:12:236 INFO  ComputerPage :42 - Click on 'Desktops' link <br>
+2022-12-20 23:12:705 INFO  DesktopsPage :62 - Click on product 'Build your own computer' : Build your own computer<br>
+2022-12-20 23:12:739 INFO  BuildYourOwnComputerPage :65 - Select processor '2.2 GHz Intel Pentium Dual-Core E2200'<br>
+2022-12-20 23:12:824 INFO  BuildYourOwnComputerPage :70 - Select RAM '2 GB'<br>
+2022-12-20 23:12:885 INFO  BuildYourOwnComputerPage :77 - Select HDD '320 GB'<br>
+2022-12-20 23:12:943 INFO  BuildYourOwnComputerPage :87 - Select HDD 'Vista Home [+$50.00]'<br>
+2022-12-20 23:12:12 INFO  BuildYourOwnComputerPage :97 - Select Software '[[ChromeDriver: chrome on WINDOWS (2b53d540154341f422f7e65547c8f71e)] -> xpath: //dd[@id='product_attribute_input_5']//li/label]'<br>
+2022-12-20 23:12:69 INFO  BuildYourOwnComputerPage :105 - Click on 'ADD TO CART' Button<br>
+2022-12-20 23:12:419 INFO  BuildYourOwnComputerPage :110 - Get productAdded Message : The product has been added to your shopping cart<br>
+2022-12-20 23:12:903 INFO  HomePage :90 - Click on 'Computers' tab <br>
+2022-12-20 23:12:441 INFO  ComputerPage :42 - Click on 'Desktops' link <br>
+2022-12-20 23:12:929 INFO  DesktopsPage :62 - Click on product 'Build your own computer' : Build your own computer<br>
+2022-12-20 23:12:800 INFO  BuildYourOwnComputerPage :65 - Select processor '2.5 GHz Intel Pentium Dual-Core E2200 [+$15.00]'<br>
+2022-12-20 23:12:866 INFO  BuildYourOwnComputerPage :70 - Select RAM '4GB [+$20.00]'<br>
+2022-12-20 23:12:935 INFO  BuildYourOwnComputerPage :77 - Select HDD '400 GB [+$100.00]'<br>
+2022-12-20 23:12:06 INFO  BuildYourOwnComputerPage :87 - Select HDD 'Vista Premium [+$60.00]'<br>
+2022-12-20 23:12:87 INFO  BuildYourOwnComputerPage :97 - Select Software '[[ChromeDriver: chrome on WINDOWS (4f64469165763e42e5dab4952c5f9f06)] -> xpath: //dd[@id='product_attribute_input_5']//li/label]'<br>
+2022-12-20 23:12:144 INFO  BuildYourOwnComputerPage :105 - Click on 'ADD TO CART' Button<br>
+2022-12-20 23:12:556 INFO  BuildYourOwnComputerPage :110 - Get productAdded Message : The product has been added to your shopping cart<br>
+2022-12-20 23:12:130 INFO  HomePage :90 - Click on 'Computers' tab <br>
+2022-12-20 23:12:630 INFO  ComputerPage :42 - Click on 'Desktops' link <br>
+2022-12-20 23:12:106 INFO  DesktopsPage :62 - Click on product 'Build your own computer' : Build your own computer<br>
+2022-12-20 23:12:308 INFO  BuildYourOwnComputerPage :65 - Select processor '2.5 GHz Intel Pentium Dual-Core E2200 [+$15.00]'<br>
+2022-12-20 23:12:365 INFO  BuildYourOwnComputerPage :70 - Select RAM '8GB [+$60.00]'<br>
+2022-12-20 23:12:411 INFO  BuildYourOwnComputerPage :77 - Select HDD '320 GB'<br>
+2022-12-20 23:12:454 INFO  BuildYourOwnComputerPage :87 - Select HDD 'Vista Home [+$50.00]'<br>
+2022-12-20 23:12:518 INFO  BuildYourOwnComputerPage :97 - Select Software '[[ChromeDriver: chrome on WINDOWS (e37a169475f2aa6a1f3ca4c924a7039e)] -> xpath: //dd[@id='product_attribute_input_5']//li/label]'<br>
+2022-12-20 23:12:553 INFO  BuildYourOwnComputerPage :105 - Click on 'ADD TO CART' Button<br>
+2022-12-20 23:12:719 INFO  BuildYourOwnComputerPage :110 - Get productAdded Message : The product has been added to your shopping cart<br>
+2022-12-20 23:12:316 INFO  HomePage :49 - Clicking on login link Log in<br>
+2022-12-20 23:12:802 INFO  LoginPage :44 - Getting welcome text Welcome, Please Sign In!<br>
+2022-12-20 23:12:381 INFO  HomePage :49 - Clicking on login link Log in<br>
+2022-12-20 23:12:944 INFO  LoginPage :50 - Enter email qwerty123@gmail.com to email field <br>
+2022-12-20 23:12:09 INFO  LoginPage :55 - Enter password qazwsx12 to password field <br>
+2022-12-20 23:12:414 INFO  LoginPage :60 - Clicking on Login Button <br>
+2022-12-20 23:12:445 INFO  LoginPage :65 - Getting error message : Login was unsuccessful. Please correct the errors and try again.
+No customer account found<br>
+2022-12-20 23:12:45 INFO  HomePage :49 - Clicking on login link Log in<br>
+2022-12-20 23:12:551 INFO  LoginPage :50 - Enter email xyz890@gmail.com to email field <br>
+2022-12-20 23:12:614 INFO  LoginPage :55 - Enter password qazwsx to password field <br>
+2022-12-20 23:12:41 INFO  LoginPage :60 - Clicking on Login Button <br>
+2022-12-20 23:12:91 INFO  LoginPage :65 - Getting error message : Login was unsuccessful. Please correct the errors and try again.
+No customer account found<br>
+2022-12-20 23:12:601 INFO  HomePage :49 - Clicking on login link Log in<br>
+2022-12-20 23:12:179 INFO  LoginPage :50 - Enter email qwerty@gmail.com to email field <br>
+2022-12-20 23:12:252 INFO  LoginPage :55 - Enter password qwerty123 to password field <br>
+2022-12-20 23:12:692 INFO  LoginPage :60 - Clicking on Login Button <br>
+2022-12-20 23:12:748 INFO  LoginPage :65 - Getting error message : Login was unsuccessful. Please correct the errors and try again.
+No customer account found<br>
+2022-12-20 23:12:275 INFO  HomePage :49 - Clicking on login link Log in<br>
+2022-12-20 23:12:823 INFO  LoginPage :50 - Enter email primeeight@gmail.com to email field <br>
+2022-12-20 23:12:889 INFO  LoginPage :55 - Enter password abc123 to password field <br>
+2022-12-20 23:12:308 INFO  LoginPage :60 - Clicking on Login Button <br>
+2022-12-20 23:12:515 INFO  HomePage :49 - Clicking on login link Log in<br>
+2022-12-20 23:12:78 INFO  LoginPage :50 - Enter email primeeight@gmail.com to email field <br>
+2022-12-20 23:12:147 INFO  LoginPage :55 - Enter password abc123 to password field <br>
+2022-12-20 23:12:569 INFO  LoginPage :60 - Clicking on Login Button <br>
+2022-12-20 23:12:623 INFO  HomePage :55 - Checking is loginLink displayed : Log in<br>
+2022-12-20 23:12:111 INFO  HomePage :60 - Clicking on register link Register<br>
+2022-12-20 23:12:218 INFO  HomePage :60 - Clicking on register link Register<br>
+2022-12-20 23:12:690 INFO  RegisterPage :130 - Click on 'REGISTER' button<br>
+2022-12-20 23:12:477 INFO  HomePage :60 - Clicking on register link Register<br>
+2022-12-20 23:12:918 INFO  RegisterPage :130 - Click on 'REGISTER' button<br>
+2022-12-20 23:12:660 INFO  HomePage :60 - Clicking on register link Register<br>
+2022-12-20 23:12:145 INFO  RegisterPage :130 - Click on 'REGISTER' button<br>
+2022-12-20 23:12:860 INFO  HomePage :60 - Clicking on register link Register<br>
+2022-12-20 23:12:357 INFO  RegisterPage :130 - Click on 'REGISTER' button<br>
+2022-12-20 23:12:84 INFO  HomePage :60 - Clicking on register link Register<br>
+2022-12-20 23:12:535 INFO  RegisterPage :130 - Click on 'REGISTER' button<br>
+2022-12-20 23:12:349 INFO  HomePage :60 - Clicking on register link Register<br>
+2022-12-20 23:12:863 INFO  RegisterPage :90 - Select 'Male' radio button<br>
+2022-12-20 23:12:957 INFO  RegisterPage :99 - Enter Firstname : 'Raj' to firstName field<br>
+2022-12-20 23:12:32 INFO  RegisterPage :104 - Enter Lastname : 'Patel' to lastName field<br>
+2022-12-20 23:12:262 INFO  RegisterPage :111 - Select day : '23', month : 'January', year : '1997'<br>
+2022-12-20 23:12:332 INFO  RegisterPage :116 - Enter Email : '2Jf9n@gmail.com' to email field<br>
+2022-12-20 23:12:410 INFO  LoginPage :55 - Enter password qwerty to password field <br>
+2022-12-20 23:12:462 INFO  RegisterPage :126 - Enter Confirm password : 'qwerty' to confirm password field<br>
+2022-12-20 23:12:465 INFO  RegisterPage :130 - Click on 'REGISTER' button<br>
+2022-12-20 23:12:239 INFO  RegisterPage :148 - Get your reg completed text : Your registration completed<br>
